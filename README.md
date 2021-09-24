@@ -1,2 +1,2 @@
-# quitit
+# quizit
 Quizzing app
